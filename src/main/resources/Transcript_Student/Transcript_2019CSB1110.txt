@@ -1,0 +1,8 @@
+Course ID: RD111
+Course Name: Random
+Credits earned: 4
+Faculty ID: 1113
+Grade: D
+Academic Year: 2023
+Semester: winter
+
